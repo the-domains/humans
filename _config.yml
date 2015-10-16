@@ -1,7 +1,7 @@
-name: null
+name: Humans of The Grid
 favicon: null
-layout_spectrum: 0.8
-typography_spectrum: 0.5
+layout_spectrum: 0.45318870851770043
+typography_spectrum: 0.9639239620883018
 cta:
   domain: null
   bucket: null
@@ -19,4 +19,5 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
+  rhythmicContrast: 0.051795718260109425
 purpose: []
